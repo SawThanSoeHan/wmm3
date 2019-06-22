@@ -1,0 +1,11 @@
+﻿.error {
+    color : red;
+}
+
+.row-bottom-separator {
+    margin-bottom : 10px;
+}
+
+input[type="file"]{
+    color: transparent;
+}
